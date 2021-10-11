@@ -1,7 +1,7 @@
 ---
 title: How to install jenkins on Ubuntu
 sidebar: auto
-next: /linux/ubuntu-python3
+next: /linux/ubuntu-python3.html
 ---
 
 # How to install jenkins on Ubuntu
