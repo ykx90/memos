@@ -1,6 +1,7 @@
 ---
 title: How to install python 3.8 on Ubuntu
 sidebar: false
+prev: /linux/ubuntu-jenkins
 ---
 
 ## How to install python 3.8 on Ubuntu
