@@ -4,12 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
-  "devDependencies": {
+  "dependencies": {
     "markdown-it-footnote": "^3.0.3",
-    "vitepress": "^0.20.0"
+    "vuepress": "^1.8.2"
   }
 }
