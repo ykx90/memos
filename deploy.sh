@@ -4,5 +4,5 @@
 yarn
 yarn build
 rm -rf /var/www/html/*
-cp -R ./docs/.vuepress/dist/* /var/www/html/
+cp -R ./docs/* /var/www/html/
 sudo systemctl restart nginx

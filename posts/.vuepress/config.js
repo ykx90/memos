@@ -1,3 +1,5 @@
+
+
 module.exports = {
     title: 'InkPress',
     description: 'The palest ink is better than the best memory',
@@ -8,6 +10,7 @@ module.exports = {
           { text: 'GitHub', link: 'https://github.com/ykx90/' }
         ]
     },
+    dest: 'docs',
     markdown: {
         lineNumbers: true,
         extendMarkdown: md => {
