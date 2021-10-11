@@ -1,5 +1,5 @@
 #! /usr/bin/bash
 
-rm -rf /usr/local/nginx/html/*
-cp -R ./docs/.vitepress/dist/* /usr/local/nginx/html/
+rm -rf /var/www/html/*
+cp -R ./docs/.vitepress/dist/* /var/www/html/
 sudo systemctl restart nginx
