@@ -2,6 +2,7 @@
 title: How to install python 3.8 on Ubuntu
 sidebar: false
 prev: /linux/ubuntu-jenkins.html
+next: /linux/ubuntu-ansible.html
 ---
 
 ## How to install python 3.8 on Ubuntu
